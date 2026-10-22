@@ -1,0 +1,48 @@
+Document Date,Supplier,Description Reference,Tax Inclusive Amount,,Bank Code,Account Code,Payment Date
+2/14/2011,XY Solutions,Opening Balance S77782,"5,100.00",A,B1,BS-500,3/2/2011
+3/1/2011,IS Communications,Internet Service Provider Invoice EXP22,179.00,A,B1,IS-380,3/31/2011
+3/2/2011,Newscorp,1381119 Subscriptions,478.00,A,B1,IS-375,4/1/2011
+3/5/2011,EAG Brokers,Debit Order Insurance,340.00,A,B1,IS-340,3/5/2011
+3/15/2011,Capital Bank,Bank Statement Service Fees,50.00,A,B1,IS-315,3/15/2011
+3/15/2011,Capital Bank,Service Fees Bank Statement,35.00,A,B2,IS-315,3/15/2011
+3/15/2011,IAS Accountants,Bookkeeping Invoice,"1,000.00",A,B1,IS-305,4/2/2011
+3/15/2011,Interflora,Flowers Cash,90.00,A,PC,IS-345,3/15/2011
+3/18/2011,QQ International,TR6998 Parking,200.00,A,B1,IS-390,3/18/2011
+3/20/2011,Example (Pty) Ltd,Transfer Inter Account Transfer,"-15,000.00",E,B2,BS-399,3/20/2011
+3/20/2011,Example (Pty) Ltd,Transfer Inter Account Transfer,"15,000.00",E,B1,BS-399,3/20/2011
+3/26/2011,Example (Pty) Ltd,Salaries Payroll,"13,000.00",E,B2,IS-365,3/26/2011
+3/26/2011,HP Finance,Capital repayment Debit Order,220.00,E,B1,BS-700,3/26/2011
+3/26/2011,HP Finance,Interest paid Debit Order,100.00,E,B1,IS-500,3/26/2011
+3/26/2011,PR Properties,Debit Order Rent,"6,400.00",A,B1,IS-350,3/26/2011
+3/31/2011,Example (Pty) Ltd,Petty Cash Reimbursement Bank Statement,100.00,E,B1,BS-399,3/31/2011
+3/31/2011,Example (Pty) Ltd,Petty Cash Reimbursement Bank Statement,-100.00,E,PC,BS-399,3/31/2011
+4/1/2011,IS Communications,Invoice EXP23 Internet Service Provider,179.00,A,B1,IS-380,5/1/2011
+4/5/2011,EAG Brokers,Debit Order Insurance,340.00,A,B1,IS-340,4/5/2011
+4/12/2011,Interflora,Flowers Cash,87.00,A,PC,IS-345,4/12/2011
+4/15/2011,Capital Bank,Bank Statement Service Fees,80.00,A,B1,IS-315,4/15/2011
+4/15/2011,Capital Bank,Bank Statement Service Fees,35.00,A,B2,IS-315,4/15/2011
+4/15/2011,IAS Accountants,Bookkeeping Invoice,"1,000.00",A,B1,IS-305,5/3/2011
+4/20/2011,Example (Pty) Ltd,Transfer Inter Account Transfer,"-20,000.00",E,B2,BS-399,4/20/2011
+4/20/2011,Example (Pty) Ltd,Transfer Inter Account Transfer,"20,000.00",E,B1,BS-399,4/20/2011
+4/25/2011,Inland Revenue,Sales Tax Return,"1,300.00",E,B1,BS-600,4/25/2011
+4/26/2011,Example (Pty) Ltd,Payroll Salaries,"20,000.00",E,B2,IS-365,4/26/2011
+4/26/2011,Furniture City,Furniture Invoice,"3,000.00",A,B1,BS-100,5/26/2011
+4/26/2011,HP Finance,Debit Order Capital repayment,220.00,E,B1,BS-700,4/26/2011
+4/26/2011,HP Finance,Debit Order Interest paid,100.00,E,B1,IS-500,4/26/2011
+4/26/2011,PR Properties,Rent Debit Order,"6,400.00",A,B1,IS-350,4/26/2011
+4/29/2011,GF Supplies,IN1179 Consumables,41.00,A,PC,IS-325,5/29/2011
+4/30/2011,Example (Pty) Ltd,Petty Cash Reimbursement Bank Statement,100.00,E,B1,BS-399,4/30/2011
+4/30/2011,Example (Pty) Ltd,Bank Statement Petty Cash Reimbursement,-100.00,E,PC,BS-399,4/30/2011
+5/1/2011,IS Communications,Invoice EXP24 Internet Service Provider,179.00,A,B1,IS-380,5/31/2011
+5/1/2011,Training Inc,Course Invoice,220.00,A,B1,IS-385,5/31/2011
+5/5/2011,EAG Brokers,Debit Order Insurance,340.00,A,B1,IS-340,5/5/2011
+5/7/2011,City Lodge,S50037 Accommodation.,563.00,A,B1,IS-390,5/7/2011
+5/7/2011,Waltons,Stationery Invoice,982.00,A,B1,IS-370,6/6/2011
+5/15/2011,Capital Bank,Service Fees Bank Statement,80.00,A,B1,IS-315,5/15/2011
+5/15/2011,Capital Bank,Service Fees Bank Statement,35.00,A,B2,IS-315,5/15/2011
+5/15/2011,IAS Accountants,Bookkeeping Invoice,"1,000.00",A,B1,IS-305,6/2/2011
+5/20/2011,Example (Pty Ltd),Transfer Inter Account Transfer,"-20,000.00",E,B2,BS-399,5/20/2011
+5/20/2011,Example (Pty) Ltd,Inter Account Transfer Transfer,"20,000.00",E,B1,BS-399,5/20/2011
+5/26/2011,Example (Pty) Ltd,Salaries Payroll,"20,000.00",E,B2,IS-365,5/26/2011
+5/26/2011,HP Finance,Capital repayment Debit Order,220.00,E,B1,BS-700,5/26/2011
+5/26/2011,HP Finance,Interest paid Debit Order,100.00,E,B1,IS-500,5/26/2011
